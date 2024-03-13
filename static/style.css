@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+  }
+  
+  p {
+    font-size: 30px;
+  }
+table, th, td {
+    text-align: left;
+    font-size: 25px;
+  }
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  tr {
+    border-bottom: 1px solid #ddd;
+  }
+td:hover {background-color: #D6EEEE;}
+
+
