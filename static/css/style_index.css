@@ -1,7 +1,7 @@
 .btn {
-    background: #111;
+    background: #ece505;
     padding: 15px 20px;
-    color:  #fff;
+    color:  #000000;
     border: none;
     font-family: inherit;
     cursor: pointer;
@@ -13,3 +13,22 @@
     border-radius: 18px;
     box-shadow: 4px 4px 14px rgb(29, 2, 2);
 }
+
+p, a {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  
+  .container {
+    border: 0px solid white;
+    height: 200px;
+    text-align: center;
+}
+
